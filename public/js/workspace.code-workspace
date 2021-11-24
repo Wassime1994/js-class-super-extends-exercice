@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\Exemple1 - CLASS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "exo1_import_export"
+	}
+}
